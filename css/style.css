@@ -82,7 +82,7 @@ body {
 }
 
 .top {
-    /* background-image: url(../images/screen.jpg); */
+    /* background-image: url(/images/screen.jpg); */
     height: 100vh;
     position: relative;
 }
